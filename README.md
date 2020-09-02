@@ -75,8 +75,7 @@ We are going to use a sample schema given to use by MySQL.
 --Its a blue lined filled diamond so it's a NOT NULL simple attribute
 
 3. How many foreign keys does the "payments" table have? How can you tell?
---NONE, foreign keys are red and theres only a yellow one.
-##### ER Diagram upload
+--customer , staff, and rental
 
 1. Take a screenshot of the ER diagram you created and name it "wk6_er_diagram"
 
