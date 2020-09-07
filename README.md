@@ -77,7 +77,7 @@ We are going to use a sample schema given to use by MySQL.
 3. How many foreign keys does the "payments" table have? How can you tell?
 --customer , staff, and rental
 
-1. Take a screenshot of the ER diagram you created and name it "wk6_er_diagram"
+1. Take a screenshot of the ER diagram you created and name it "wk6_er_diagram" 
 
 
 
